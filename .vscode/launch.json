@@ -1,0 +1,75 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: SelectionSort",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\SelectionSort\\SelectionSort.csproj",
+            "launchConfigurationId": "TargetFramework=;SelectionSort"
+        },
+        {
+            "name": "C#: Actualizacion de Inventario",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Actualizacion de Inventario\\Actualizacion de Inventario.csproj",
+            "launchConfigurationId": "TargetFramework=;Actualizacion de Inventario"
+        },
+        {
+            "name": "C#: QuickSort",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\QuickSort\\QuickSort.csproj",
+            "launchConfigurationId": "TargetFramework=;QuickSort"
+        },
+        {
+            "name": "C#: Busqueda Binaria",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Busqueda Binaria\\Busqueda Binaria.csproj",
+            "launchConfigurationId": "TargetFramework=;Busqueda Binaria"
+        },
+        {
+            "name": "C#: BubbleSort",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\BubbleSort\\BubbleSort.csproj",
+            "launchConfigurationId": "TargetFramework=;BubbleSort"
+        },
+        {
+            "name": "C#: Diferencia Simetrica",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Diferencia Simetrica\\Diferencia Simetrica.csproj",
+            "launchConfigurationId": "TargetFramework=;Diferencia Simetrica"
+        },
+        {
+            "name": "C#: Pares de Numeros que Suman el 2do Argumento",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Pares de Numeros que Suman el 2do Argumento\\Pares de Numeros que Suman el 2do Argumento.csproj",
+            "launchConfigurationId": "TargetFramework=;Pares de Numeros que Suman el 2do Argumento"
+        },
+        {
+            "name": "C#: InsertionSort",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\InsertionSort\\InsertionSort.csproj",
+            "launchConfigurationId": "TargetFramework=;InsertionSort"
+        },
+        {
+            "name": "C#: MergeSort",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\MergeSort\\MergeSort.csproj",
+            "launchConfigurationId": "TargetFramework=;MergeSort"
+        },
+        {
+            "name": "C#: HeapSort",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\HeapSort\\HeapSort.csproj",
+            "launchConfigurationId": "TargetFramework=;HeapSort"
+        }
+    ]
+}
